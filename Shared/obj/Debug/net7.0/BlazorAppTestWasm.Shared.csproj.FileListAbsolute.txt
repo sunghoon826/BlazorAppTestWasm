@@ -1,0 +1,15 @@
+D:\repos\Study\BlazorAppTestWasm\Shared\bin\Debug\net7.0\BlazorAppTestWasm.Shared.deps.json
+D:\repos\Study\BlazorAppTestWasm\Shared\bin\Debug\net7.0\BlazorAppTestWasm.Shared.dll
+D:\repos\Study\BlazorAppTestWasm\Shared\bin\Debug\net7.0\BlazorAppTestWasm.Shared.pdb
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.AssemblyInfoInputs.cache
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.AssemblyInfo.cs
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.csproj.CoreCompileInputs.cache
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.dll
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\refint\BlazorAppTestWasm.Shared.dll
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.pdb
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\ref\BlazorAppTestWasm.Shared.dll
+D:\repos\Study\BlazorAppTestWasm\Shared\bin\Debug\net7.0\BlazorAppTestWasm.Shared.runtimeconfig.json
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.csproj.AssemblyReference.cache
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.genruntimeconfig.cache
+D:\repos\Study\BlazorAppTestWasm\Shared\obj\Debug\net7.0\BlazorAppTestWasm.Shared.sourcelink.json
